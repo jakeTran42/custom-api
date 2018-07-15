@@ -1,0 +1,1 @@
+#This API is for user/dev to be able to search for certain kind of food and be able to return its ingredients and calories. They cna also be able to filter out ingredient or search for recipes for that certain ingredients.
